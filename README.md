@@ -2,7 +2,7 @@ Empathy Map File(s)
 -------------------
 Why aren't there easy-to-reuse Empathy Map files for Design Thinking purposes? I was frustrated looking for some earlier on today, so I went and made my own, and now here they are.
 
-Available as PDF, EPS, SVG and AI.
+Available as PDF, EPS, SVG, PNG and AI.
 
 Credit me if you want, but these images are all available under a CC0 license, so no attribution is necessary.
 
